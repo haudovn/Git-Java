@@ -1,1 +1,3 @@
-"Git-Java Project" 
+Git-Java Project
+
+This is a description of this project
